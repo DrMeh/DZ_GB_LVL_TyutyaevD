@@ -1,0 +1,26 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/UnrealProjects/Level_designProj 5.1/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"D:/UnrealProjects/Level_designProj 5.1/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset",
+				"D:/UnrealProjects/Level_designProj 5.1/Content/StarterContent/Audio/Collapse01.uasset",
+				"d:/UnrealProjects/Level_designProj 5.1/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"d:/UnrealProjects/DZ_GB/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"d:/UnrealProjects/DZ_GB/Content/ThirdPersonBP/Maps/Level1_exmp.umap",
+				"d:/UnrealProjects/DZ_GB/Content/ThirdPersonBP/Blueprints/system/ThirdPersonCharacter.uasset",
+				"d:/UnrealProjects/DZ_GB/Content/ThirdPersonBP/Maps/exmp.umap",
+				"d:/UnrealProjects/DZ_GB/Content/ThirdPersonBP/Maps/Level2_exmp.umap",
+				"d:/UnrealProjects/DZ_GB/Content/ThirdPersonBP/Maps/Level3_exmp.umap",
+				"d:/UnrealProjects/DZ_GB/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset",
+				"d:/UnrealProjects/DZ_GB/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap",
+				"d:/UnrealProjects/DZ_GB/Content/ThirdPersonBP/Blueprints/system/Controller.uasset",
+				"d:/UnrealProjects/DZ_GB/Content/ThirdPersonBP/Blueprints/system/WG_Controller.uasset",
+				"d:/UnrealProjects/DZ_GB/Content/ThirdPersonBP/Blueprints/system/wg_main.uasset"
+			]
+		}
+	]
+}
